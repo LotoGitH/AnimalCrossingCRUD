@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ac-001",
+    "nombre": "Canela",
+    "rol": "Especial",
+    "origen": "Perro",
+    "imagen": "canelita.png",
+    "descripcion": "La atenta y amable secretaria del ayuntamiento lista para ayudarte.",
+    "fechaCreacion": "2026-10-14T18:30:00Z"
+  },
+  {
+    "id": "ac-002",
+    "nombre": "Raymond",
+    "rol": "Esnob",
+    "origen": "Gato",
+    "imagen": "raymond.jpg",
+    "descripcion": "Un gato con heterocromía amante de la elegancia.",
+    "fechaCreacion": "2026-10-15T10:00:00Z"
+  },
+  {
+    "id": "ac-003",
+    "nombre": "Fustino",
+    "rol": "Atlántico / Atleta",
+    "origen": "Águila",
+    "imagen": "fustino.jpg",
+    "descripcion": "Obsesionado con el ejercicio y la fuerza muscular.",
+    "fechaCreacion": "2026-10-16T12:00:00Z"
+  },
+  {
+    "id": "ac-004",
+    "nombre": "Lili",
+    "rol": "Dulce",
+    "origen": "Rana",
+    "imagen": "lily.jpg",
+    "descripcion": "Tranquila, educada y apasionada por los libros y las flores.",
+    "fechaCreacion": "2026-10-17T09:15:00Z"
+  },
+  {
+    "id": "ac-005",
+    "nombre": "Tom Nook",
+    "rol": "Especial",
+    "origen": "Tanuki",
+    "imagen": "tom nook.png",
+    "descripcion": "El fundador de Nook Inc. y gestor principal del Plan de Asentamiento.",
+    "fechaCreacion": "2026-10-17T14:20:00Z"
+  },
+  {
+    "id": "ac-006",
+    "nombre": "Gandulio",
+    "rol": "Perezoso",
+    "origen": "Perezoso",
+    "imagen": "gandulio.jpg",
+    "descripcion": "Un tierno perezoso que disfruta de las siestas y el confort, además de su amor por las plantas.",
+    "fechaCreacion": "2026-10-17T15:00:00Z"
+  }
+]
